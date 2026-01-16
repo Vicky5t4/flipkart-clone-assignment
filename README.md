@@ -6,6 +6,17 @@ This is a **Flipkart-like e-commerce web app** with:
 - Product detail page with image carousel
 - Cart management (add / update qty / remove)
 - Checkout + Order placement + Order confirmation with Order ID
+  <img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/9c011e93-9c1b-4bb2-954b-b4180a0c2c43" />
+
+  <img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/ad511359-c600-49d7-b67a-e7e2b96e8dd0" />
+  <img width="2879" height="1794" alt="image" src="https://github.com/user-attachments/assets/359b6751-740c-4f15-8d95-0625cf3a715d" />
+  <img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/38d822c3-958c-4337-9c33-0bdd4d740487" />
+  <img width="2870" height="1784" alt="image" src="https://github.com/user-attachments/assets/e2912cb9-3d41-4258-bb77-5aba3dffb4d4" />
+
+
+
+
+
 
 ✅ **No login required** (assumes a default user is logged in)
 
